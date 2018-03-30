@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: ec9cb7cb499141c46a1c82dfea99bfeb
+timeCreated: 1490812154
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Phenomena
+  fontNames:
+  - Phenomena
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 9923a127f497b954eaca61f6f63a5b36, type: 3}
+  - {fileID: 12800000, guid: 52815538363c43d4b9fa42f9cfe7bc54, type: 3}
+  - {fileID: 12800000, guid: 28d3ad4adce230047be54370084994a5, type: 3}
+  - {fileID: 12800000, guid: c611e15a03febe24d8df19ca0706f6e0, type: 3}
+  - {fileID: 12800000, guid: 9ea028ddecbfa36448f29cbfc1bf00c5, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
